@@ -1,0 +1,4 @@
+include ':app_photoeditor'
+include ':photoeditor'
+include ':app'
+rootProject.name = "BestPhotoEditor"
